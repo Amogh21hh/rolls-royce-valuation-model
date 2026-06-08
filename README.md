@@ -117,7 +117,7 @@ The Streamlit app re-runs the DCF in real time as the user adjusts WACC and term
 
 ```bash
 # Clone the repo
-git clone https://github.com/<your-username>/rolls-royce-valuation-model.git
+git clone https://github.com/Amogh21hh/rolls-royce-valuation-model.git
 cd rolls-royce-valuation-model
 
 # (Recommended) create a virtual environment
